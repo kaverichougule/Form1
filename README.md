@@ -22,5 +22,5 @@ input type="date": Creates a date input field, used for entering the date of bir
 ![image](https://github.com/kaverichougule/Form1/assets/101037685/8175469e-2bb3-4533-bad0-a3855ca35675)
 textarea: Creates a multiline text input field, used for entering an address.
 
-![image](https://github.com/kaverichougule/Form1/assets/101037685/6ed48a06-bae1-4159-bdbd-7690f0a80586)
+![image](https://github.com/kaverichougule/Form1/assets/101037685/5ce2a631-12fa-40fc-89fd-d9ffa9aeb6ba)
 input type="Submit": Creates a submit button, used to submit the form data.
